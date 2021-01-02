@@ -1,2 +1,0 @@
-DR_PLL.c:77:6:CLK_init	4	static
-DR_PLL.c:110:6:PCLK_setEnable	16	static

@@ -1,6 +1,0 @@
-DR_GPIO.c:40:6:GPIO_setDir	16	static
-DR_GPIO.c:66:6:GPIO_setPin	16	static
-DR_GPIO.c:78:9:GPIO_getPin	24	static
-DR_GPIO.c:93:6:GPIO_setInputMode	24	static
-DR_GPIO.c:124:6:GPIO_setOutputMode	24	static
-DR_GPIO.c:149:6:GPIO_setAltFunc	24	static
